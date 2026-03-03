@@ -21,7 +21,7 @@ Offensive Security Engineer | Open-Source Secret Hunter | Building Detectors
 
 ## 🔗 Connect
 - X: [@lloydcoder](https://x.com/lloydcoder)
-- LinkedIn: [Lloyd Coder](https://linkedin.com/in/lloydcoder) *(update your real link)*
+- LinkedIn: [Lloyd Coder](https://www.linkedin.com/in/nwachukwu-chinaemerem/)
 - Email: lloydcoder@protonmail.com
 
 ## 💼 Open to Collabs
